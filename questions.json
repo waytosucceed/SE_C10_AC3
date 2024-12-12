@@ -1,0 +1,113 @@
+[
+    {
+      "questionNo": "Q1",
+      "question": "You use <sup>3</sup>&frasl;<sub>4</sub> cup of flour for a cake. How much flour would you need to make half a cake?<br><img width='45%' src='./assests/images/1.png'>",
+      "options": [
+        "./assests/optionImg/61.jpg",
+        "./assests/optionImg/62.jpg",
+        "./assests/optionImg/63.jpg",
+        "./assests/optionImg/64.jpg"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q2",
+      "question": "You drink <sup>1</sup>&frasl;<sub>2</sub> of a gallon of water in a day. How much do you drink in a week?<br><img width='45%' src='./assests/images/2.png'>",
+      "options": [
+        "./assests/optionImg/65.jpg",
+        "./assests/optionImg/66.jpg",
+        "./assests/optionImg/67.jpg",
+        "./assests/optionImg/68.jpg"
+      ],
+      "correct": 3
+    },
+    {
+      "questionNo": "Q3",
+      "question": "If you eat <sup>3</sup>&frasl;<sub>5</sub> of a pizza and your friend eats <sup>1</sup>&frasl;<sub>5</sub>, what fraction of the pizza is left?<br><img width='45%' src='./assests/images/3.png'>",
+      "options": [
+        "./assests/optionImg/69.jpg",
+        "./assests/optionImg/70.jpg",
+        "./assests/optionImg/71.jpg",
+        "./assests/optionImg/72.jpg"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q4",
+      "question": "A tailor uses <sup>3</sup>&frasl;<sub>4</sub> meter of fabric for a shirt. How many shirts can he make from 9 meters of fabric?<br><img width='45%' src='./assests/images/4.png'>",
+      "options": [
+        "9 shirts",
+        "12 shirts",
+        "15 shirts",
+        "18 shirts"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q5",
+      "question": "If <sup>2</sup>&frasl;<sub>3</sub>  of an hour is spent on homework, how many minutes is that?<br><img width='45%' src='./assests/images/5.png'>",
+      "options": [
+        "35 minutes",
+        "25 minutes",
+        "40 minutes",
+        "50 minutes"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q6",
+      "question": "A school garden is divided into three equal sections for vegetables, flowers, and herbs. If the total area of the garden is <sup>3</sup>&frasl;<sub>4</sub>  hectare, how much area is dedicated to flowers?<br><img width='45%' src='./assests/images/7.png'>",
+      "options": [
+        "./assests/optionImg/73.jpg",
+        "./assests/optionImg/74.jpg",
+        "./assests/optionImg/75.jpg",
+        "./assests/optionImg/76.jpg"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q7",
+      "question": "A fruit basket contains <sup>1</sup>&frasl;<sub>4</sub>  apples and <sup>1</sup>&frasl;<sub>3</sub>  oranges. What fraction of the basket is neither apples nor oranges?<br><img width='45%' src='./assests/images/6.png'>",
+      "options": [
+        "./assests/optionImg/77.jpg",
+        "./assests/optionImg/78.jpg",
+        "./assests/optionImg/79.jpg",
+        "./assests/optionImg/80.jpg"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q8",
+      "question": "During a sale, a store offers a <sup>1</sup>&frasl;<sub>4</sub> discount on all items. If an item costs $160 before the discount, what is the sale price?<br><img width='45%' src='./assests/images/8.png'>",
+      "options": [
+        "$40",
+        "$90",
+        "$120",
+        "$130"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q9",
+      "question": "A pool fills up <sup>1</sup>&frasl;<sub>3</sub> of its volume in one hour. How long does it take to fill <sup>2</sup>&frasl;<sub>3</sub>  of the pool?<br><img width='45%' src='./assests/images/9.png'>",
+      "options": [
+        "./assests/optionImg/81.jpg",
+        "./assests/optionImg/82.jpg",
+        "./assests/optionImg/83.jpg",
+        "./assests/optionImg/84.jpg"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q10",
+      "question": "A car’s fuel tank is <sup>4</sup>&frasl;<sub>5</sub> full. After a long trip, the car uses half of the fuel in the tank. What fraction of the fuel tank remains full?<br><img width='45%' src='./assests/images/10.png'>",
+      "options": [
+        "./assests/optionImg/85.jpg",
+        "./assests/optionImg/86.jpg",
+        "./assests/optionImg/87.jpg",
+        "./assests/optionImg/88.jpg"
+      ],
+      "correct": 2
+    }
+  ]
+  
